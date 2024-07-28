@@ -13,7 +13,7 @@
 
 I am  Web Developer from India.
 
-- 🖥️: I’m working as a Frontend Web Dev at Deliverable Agence.
+- 🖥️: I’m working as a Frontend Web Dev at Deliverable Agency.
 
 - 🌱: Exploring NodeJs, MongoDB
 
