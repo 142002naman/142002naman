@@ -1,32 +1,42 @@
-<h1 align="center"> Hey there! <span class="wave">👋 </span></h1>
-
-
-
-
+<h1 align="center">Hey there! <span class="wave">👋</span></h1>
 
 <div id="header" align="center">
-<img align="center" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNjNmR5aHJpdW96ZnFiMGVsdWVseGtpZzN5eGZ4ZDZyODFodWRmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp"  />
+  <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" height="200"/>
 </div>
 
+---
 
-<h2>About me </h2>
+## 🚀 About Me
 
-I am  Web Developer from India.
+I’m a **Web Developer from India** passionate about building modern and scalable applications.  
+Currently working as a **Frontend Developer at Deliverable Agency**.
 
-- 🖥️: I’m working as a Frontend Web Dev at Deliverable Agency.
+- 🖥️ Crafting web experiences with **Next.js & React**  
+- 🌱 Exploring **Node.js** and **MongoDB**  
+- 💬 Let’s connect on  
+  [![Linkedin Badge](https://img.shields.io/badge/-Naman%20Aggarwal-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-aggarwal-90886622a)
 
-- 🌱: Exploring NodeJs, MongoDB
+---
 
-- 💬 : How to reach me: [![Linkedin Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/naman-aggarwal-90886622a)
+## 🛠️ Tech Stack
 
-<h1>Skills:</h1>
-  
-  ➤ NextJs <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  /><br><br>
-  ➤ ReactJs <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <br><br>
-  ➤ Typescript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo" align="center" /><br><br>
-  ➤ Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="20" alt="typescript logo" align="center" /><br><br>
-  ➤ Tailwind <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="tailwindcss logo" align="center" /><br><br>
-  ➤ VSCode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo" align="center" /><br><br>
-  ➤ React Native <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <br><br>
-  ➤ Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo" align="center" /><br><br>
-  ➤ JS <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" height="20" alt="git logo" align="center" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namanaggarwal22&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanaggarwal22&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
