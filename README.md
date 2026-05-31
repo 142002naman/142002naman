@@ -10,7 +10,7 @@
 - 💡 Passionate about building **scalable web apps** with clean UI/UX  
 - 🌍 Based in **India**  
 - 📫 Reach me on:  
-  [![Linkedin Badge](https://img.shields.io/badge/-Naman%20Aggarwal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-aggarwal-90886622a)
+  [![Linkedin Badge](https://img.shields.io/badge/-Naman%20Aggarwal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devbynaman)
 
 ---
 
