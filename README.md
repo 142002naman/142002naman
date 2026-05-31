@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me  
 
 - 🚀 Frontend Developer at **Deliverable Agency**  
-- 🌱 Currently exploring **Node.js** & **MongoDB**  
+- 🌱 Currently exploring **Node.js**
 - 💡 Passionate about building **scalable web apps** with clean UI/UX  
 - 🌍 Based in **India**  
 - 📫 Reach me on:  
